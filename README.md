@@ -1,0 +1,1 @@
+# How to Store and Access Backend JWT with the Next-Auth in Next.js
